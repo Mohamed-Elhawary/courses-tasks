@@ -1,0 +1,32 @@
+header {
+    background-color: #eee;
+    
+}
+
+header h1 {
+    text-align: center;
+    color: #e63946;
+}
+
+header h2 {
+    color: #0096c7;
+}
+
+section {
+    background-color: lightgreen;
+    padding: 20px;
+}
+
+section a {
+  background-color: #fff;
+  color: #3d405b;
+  font-size: 20px;
+  margin-left: 5px;  
+}
+
+section img {
+    display: block;
+    width: 120px;
+    margin-top: 10px;
+}
+

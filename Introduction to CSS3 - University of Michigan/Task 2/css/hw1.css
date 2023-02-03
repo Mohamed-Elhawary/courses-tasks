@@ -1,0 +1,40 @@
+body {
+    padding: 10px;
+    margin: 5px 5px;
+}
+
+header {
+    background-image: url("/images/flywheel.jpg");
+    background-color: #eee;
+    padding: 5px;
+}
+
+nav {
+    overflow: hidden;
+}
+
+nav a {
+    float: left;
+    margin: 5px;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+nav a.active{
+    background-color: #eee;
+    color: #ff00ff;
+}
+
+section {
+
+float: left;
+margin-left: 10px;
+
+}
+
+img {
+    border: 5px solid #ccc;
+    display: block;
+    margin: 10px auto;
+}
