@@ -30,4 +30,4 @@ Course Link: https://www.coursera.org/learn/object-oriented-design
 
 # Certificate
 
-[Certificate](Certificate.pdf)
+[Course Certificate](Certificate.pdf)

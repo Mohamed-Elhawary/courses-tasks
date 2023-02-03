@@ -16,4 +16,4 @@ Course Link: https://www.coursera.org/learn/javascript
 
 # Certificate
 
-[Certificate](Certificate.pdf)
+[Course Certificate](Certificate.pdf)

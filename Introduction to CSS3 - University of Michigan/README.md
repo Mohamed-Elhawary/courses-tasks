@@ -20,4 +20,4 @@ Course Link: https://www.coursera.org/learn/introcss
 
 # Certificate
 
-[Certificate](Certificate.pdf)
+[Course Certificate](Certificate.pdf)
