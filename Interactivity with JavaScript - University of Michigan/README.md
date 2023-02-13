@@ -1,6 +1,6 @@
 # Interactivity with JavaScript
 
-All my tasks of Interactivity with JavaScript course - Michigan University.
+All my tasks of [Interactivity with JavaScript course - Michigan University](https://www.coursera.org/learn/javascript).
 
 ## Course Content 
 
