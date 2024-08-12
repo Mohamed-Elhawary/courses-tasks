@@ -10,19 +10,18 @@ This course takes Java beginners to the next level by covering object-oriented a
 
 You will be challenged in the Capstone Project to apply your knowledge of object-oriented design by evolving and documenting the Java codebase for an Android application with corresponding UML documentation.
 
-### Benefits: 
+### Benefits
 
-• Apply the Class Responsibility Collaborator (CRC) technique to analyze and design the object-oriented model for a problem. 
-• Explain and apply object-oriented modeling principles and their purpose (e.g., abstraction, encapsulation, decomposition, generalization). 
-• Explain and apply different types of inheritance.
-• Explain the difference between association, aggregation, and composition dependencies. 
-• Express object-oriented models as Unified Modeling Language (UML) class diagrams. 
-• Translate between UML class diagrams and equivalent Java code. 
+• Apply the class responsibility collaborator (CRC) technique to analyze and design the object-oriented model for a problem. 
 • Apply design guidelines for modularity, separation of concerns, information hiding, and conceptual integrity to create a flexible, reusable, maintainable design. 
-• Explain the tradeoff between cohesion and coupling.  
-• Understand Object-Oriented Design.
-• Understand Object-Oriented Analysis And Design.
-• Understand Unified Modeling Language (UML).
+• Explain Object-Oriented Modeling Principles: (Abstraction, Encapsulation, Decomposition, and Generalization)
+• Explain the difference between Association, Aggregation, and Composition dependencies
+• Explain Different Types of Inheritance
+• Explain the Tradeoff between Cohesion and Coupling
+• Express Object-Oriented Models as Unified Modeling Language (UML) Class Diagrams 
+• Translate between UML Class Diagrams and Equivalent Java Code 
+• Understand Object-Oriented Analysis and Design
+• Understand Unified Modeling Language (UML)
 
 ------------------
 
