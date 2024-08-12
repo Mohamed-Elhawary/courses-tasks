@@ -10,7 +10,7 @@ This course takes Java beginners to the next level by covering object-oriented a
 
 You will be challenged in the Capstone Project to apply your knowledge of object-oriented design by evolving and documenting the Java codebase for an Android application with corresponding UML documentation.
 
-## Benefits: 
+### Benefits: 
 
 • Apply the Class Responsibility Collaborator (CRC) technique to analyze and design the object-oriented model for a problem. 
 • Explain and apply object-oriented modeling principles and their purpose (e.g., abstraction, encapsulation, decomposition, generalization). 

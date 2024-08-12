@@ -17,14 +17,14 @@ Internship Experience UK: Technology is a four-day virtual internship programme 
 • Complex problem-solving - Vodafone
 • Attendance essential sessions where it developed my core skills all employers require, including negotiation, application writing, and project management.
 
-## Benefits:
+### Benefits:
 
 • It gave me the chance to learn from and connect with leading employers in the technology sector, including Google.
 • It gave me all new sector-focused and core skills sessions to give me greater insight into working in tech.
 • It gave me the chance to tailor my work experience based on my interests.
 • It gave me unique sub-sector streams and project work from Google that I can impress current and potential employers with.
 
-## Tasks:
+### Tasks:
 
 [Google Task]: Developed an app that simulates all the Youtube platform actions the user performs frequently, like adding a video to a playlist, playing a video, pausing a video, etc, using Python.
 
