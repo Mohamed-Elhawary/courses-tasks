@@ -12,8 +12,7 @@ You will be challenged in the Capstone Project to apply your knowledge of object
 
 ### Benefits
 
-• Apply the class responsibility collaborator (CRC) technique to analyze and design the object-oriented model for a problem. 
-• Apply design guidelines for modularity, separation of concerns, information hiding, and conceptual integrity to create a flexible, reusable, maintainable design. 
+• Apply Class Responsibility Collaborator (CRC) Technique  
 • Explain Object-Oriented Modeling Principles: (Abstraction, Encapsulation, Decomposition, and Generalization)
 • Explain the difference between Association, Aggregation, and Composition dependencies
 • Explain Different Types of Inheritance
