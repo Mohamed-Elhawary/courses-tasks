@@ -12,15 +12,15 @@ You will be challenged in the Capstone Project to apply your knowledge of object
 
 ### Benefits
 
-• Apply Class Responsibility Collaborator (CRC) Technique  
-• Explain Object-Oriented Modeling Principles: (Abstraction, Encapsulation, Decomposition, and Generalization)
-• Explain the difference between Association, Aggregation, and Composition dependencies
-• Explain Different Types of Inheritance
-• Explain the Tradeoff between Cohesion and Coupling
-• Express Object-Oriented Models as Unified Modeling Language (UML) Class Diagrams 
-• Translate between UML Class Diagrams and Equivalent Java Code 
-• Understand Object-Oriented Analysis and Design
-• Understand Unified Modeling Language (UML)
+- Apply Class Responsibility Collaborator (CRC) Technique  
+- Explain Object-Oriented Modeling Principles: (Abstraction, Encapsulation, Decomposition, and Generalization)
+- Explain the difference between Association, Aggregation, and Composition dependencies
+- Explain Different Types of Inheritance
+- Explain the Tradeoff between Cohesion and Coupling
+- Express Object-Oriented Models as Unified Modeling Language (UML) Class Diagrams 
+- Translate between UML Class Diagrams and Equivalent Java Code 
+- Understand Object-Oriented Analysis and Design
+- Understand Unified Modeling Language (UML)
 
 ------------------
 
